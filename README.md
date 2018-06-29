@@ -14,7 +14,7 @@ As soon as all functions included in this repo were for all known edge cases, fe
 
 ## Usage
 
-(1) Clone the repo with `git clone https://github.com/stubisdon/libft.git`
-(2) Compile the library with 'make'
-(3) Include this library in your code with '#include "libft.h"'
-(4) Make sure that libft.h is in the same folder with your new code.
+1. Clone the repo with `git clone https://github.com/stubisdon/libft.git`
+2. Compile the library with `make`
+3. Include this library in your code with '#include "libft.h"'
+4. Make sure that libft.h is in the same folder with your new code.
